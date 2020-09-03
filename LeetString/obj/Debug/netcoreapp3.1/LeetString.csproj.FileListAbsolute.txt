@@ -1,0 +1,9 @@
+C:\Users\Murphy\Desktop\Repos\LeetCode\LeetString\bin\Debug\netcoreapp3.1\LeetString.deps.json
+C:\Users\Murphy\Desktop\Repos\LeetCode\LeetString\bin\Debug\netcoreapp3.1\LeetString.dll
+C:\Users\Murphy\Desktop\Repos\LeetCode\LeetString\bin\Debug\netcoreapp3.1\LeetString.pdb
+C:\Users\Murphy\Desktop\Repos\LeetCode\LeetString\obj\Debug\netcoreapp3.1\LeetString.csprojAssemblyReference.cache
+C:\Users\Murphy\Desktop\Repos\LeetCode\LeetString\obj\Debug\netcoreapp3.1\LeetString.AssemblyInfoInputs.cache
+C:\Users\Murphy\Desktop\Repos\LeetCode\LeetString\obj\Debug\netcoreapp3.1\LeetString.AssemblyInfo.cs
+C:\Users\Murphy\Desktop\Repos\LeetCode\LeetString\obj\Debug\netcoreapp3.1\LeetString.csproj.CoreCompileInputs.cache
+C:\Users\Murphy\Desktop\Repos\LeetCode\LeetString\obj\Debug\netcoreapp3.1\LeetString.dll
+C:\Users\Murphy\Desktop\Repos\LeetCode\LeetString\obj\Debug\netcoreapp3.1\LeetString.pdb
