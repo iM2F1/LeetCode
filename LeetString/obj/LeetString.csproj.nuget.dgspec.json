@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Murphy\\Desktop\\Repos\\LeetCode\\LeetString\\LeetString.csproj": {}
+    "D:\\QNAPSync\\Projects\\LeetCode\\LeetString\\LeetString.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Murphy\\Desktop\\Repos\\LeetCode\\LeetString\\LeetString.csproj": {
+    "D:\\QNAPSync\\Projects\\LeetCode\\LeetString\\LeetString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Murphy\\Desktop\\Repos\\LeetCode\\LeetString\\LeetString.csproj",
+        "projectUniqueName": "D:\\QNAPSync\\Projects\\LeetCode\\LeetString\\LeetString.csproj",
         "projectName": "LeetString",
-        "projectPath": "C:\\Users\\Murphy\\Desktop\\Repos\\LeetCode\\LeetString\\LeetString.csproj",
-        "packagesPath": "C:\\Users\\Murphy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Murphy\\Desktop\\Repos\\LeetCode\\LeetString\\obj\\",
+        "projectPath": "D:\\QNAPSync\\Projects\\LeetCode\\LeetString\\LeetString.csproj",
+        "packagesPath": "C:\\Users\\judge\\.nuget\\packages\\",
+        "outputPath": "D:\\QNAPSync\\Projects\\LeetCode\\LeetString\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Murphy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\judge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -57,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015095\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
