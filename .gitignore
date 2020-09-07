@@ -2,3 +2,8 @@
 /LeetString/obj/*
 /LeetStringTests/bin/*
 /LeetStringTests/obj/*
+/.vs/*
+/LeetStringFramework/obj/*
+/LeetStringFramework/bin/*
+/LeetStringFrameworkTests/obj/*
+/LeetStringFrameworkTests/bin/*

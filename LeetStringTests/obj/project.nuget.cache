@@ -1,11 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "IrRfttR80tKmB7v15d3u/HiOMKstaHTx8w/n2YTKvtuBo08eT3bJAV+fjL2UWwqgsyhvYtV8SIb/RLKE9GELxg==",
+  "dgSpecHash": "pPXlx56P/Edu2/cRC7OdqD3FHsyyMTm9+cxYmtSPtBH13viqAFtUCgu8AdSyTgaPfmHXdWagemA0jCeWvE3PUQ==",
   "success": true,
   "projectFilePath": "D:\\QNAPSync\\Projects\\LeetCode\\LeetStringTests\\LeetStringTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\judge\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
-    "C:\\Users\\judge\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512"
+    "C:\\Users\\judge\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\judge\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\judge\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\judge\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\judge\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\judge\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\judge\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512",
+    "C:\\Users\\judge\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
