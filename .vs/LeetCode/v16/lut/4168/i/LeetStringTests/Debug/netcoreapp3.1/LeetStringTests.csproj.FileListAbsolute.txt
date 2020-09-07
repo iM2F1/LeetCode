@@ -1,7 +1,0 @@
-D:\QNAPSync\Projects\LeetCode\.vs\LeetCode\v16\lut\0\b\LeetStringTests\Debug\netcoreapp3.1\LeetStringTests.deps.json
-D:\QNAPSync\Projects\LeetCode\.vs\LeetCode\v16\lut\0\b\LeetStringTests\Debug\netcoreapp3.1\LeetStringTests.dll
-D:\QNAPSync\Projects\LeetCode\.vs\LeetCode\v16\lut\0\i\LeetStringTests\Debug\netcoreapp3.1\LeetStringTests.csprojAssemblyReference.cache
-D:\QNAPSync\Projects\LeetCode\.vs\LeetCode\v16\lut\0\i\LeetStringTests\Debug\netcoreapp3.1\LeetStringTests.AssemblyInfoInputs.cache
-D:\QNAPSync\Projects\LeetCode\.vs\LeetCode\v16\lut\0\i\LeetStringTests\Debug\netcoreapp3.1\LeetStringTests.AssemblyInfo.cs
-D:\QNAPSync\Projects\LeetCode\.vs\LeetCode\v16\lut\0\i\LeetStringTests\Debug\netcoreapp3.1\LeetStringTests.csproj.CopyComplete
-D:\QNAPSync\Projects\LeetCode\.vs\LeetCode\v16\lut\0\i\LeetStringTests\Debug\netcoreapp3.1\LeetStringTests.dll

@@ -1,7 +1,0 @@
-D:\QNAPSync\Projects\LeetCode\.vs\LeetCode\v16\lut\0\b\LeetMath\Debug\netcoreapp3.1\LeetMath.deps.json
-D:\QNAPSync\Projects\LeetCode\.vs\LeetCode\v16\lut\0\b\LeetMath\Debug\netcoreapp3.1\LeetMath.dll
-D:\QNAPSync\Projects\LeetCode\.vs\LeetCode\v16\lut\0\i\LeetMath\Debug\netcoreapp3.1\LeetMath.AssemblyInfoInputs.cache
-D:\QNAPSync\Projects\LeetCode\.vs\LeetCode\v16\lut\0\i\LeetMath\Debug\netcoreapp3.1\LeetMath.AssemblyInfo.cs
-D:\QNAPSync\Projects\LeetCode\.vs\LeetCode\v16\lut\0\i\LeetMath\Debug\netcoreapp3.1\LeetMath.csproj.CopyComplete
-D:\QNAPSync\Projects\LeetCode\.vs\LeetCode\v16\lut\0\i\LeetMath\Debug\netcoreapp3.1\LeetMath.dll
-D:\QNAPSync\Projects\LeetCode\.vs\LeetCode\v16\lut\0\i\LeetMath\Debug\netcoreapp3.1\LeetMath.csprojAssemblyReference.cache
