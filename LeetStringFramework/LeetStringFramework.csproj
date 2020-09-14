@@ -49,6 +49,7 @@
     <Compile Include="_13Roman2Integer.cs" />
     <Compile Include="_1436_Destination_City.cs" />
     <Compile Include="_1512_Number_of_Good_Pairs.cs" />
+    <Compile Include="_535_Encode_and_Decode_TinyURL.cs" />
     <Compile Include="_804_Unique_Morse_Code_Words.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
