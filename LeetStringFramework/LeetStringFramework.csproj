@@ -48,6 +48,7 @@
     <Compile Include="_1309_Decrypt_String_from_Alphabet_to_Integer_Mapping.cs" />
     <Compile Include="_13Roman2Integer.cs" />
     <Compile Include="_1436_Destination_City.cs" />
+    <Compile Include="_1480_Running_Sum_of_1d_Array.cs" />
     <Compile Include="_1512_Number_of_Good_Pairs.cs" />
     <Compile Include="_804_Unique_Morse_Code_Words.cs" />
   </ItemGroup>
