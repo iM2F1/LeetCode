@@ -65,6 +65,7 @@
     <Compile Include="_1436_Destination_CityTests.cs" />
     <Compile Include="_1480_Running_Sum_of_1d_ArrayTests.cs" />
     <Compile Include="_1512_Number_of_Good_PairsTests.cs" />
+    <Compile Include="_535_Encode_and_Decode_TinyURLTests.cs" />
     <Compile Include="_804_Unique_Morse_Code_WordsTests.cs" />
   </ItemGroup>
   <ItemGroup>
